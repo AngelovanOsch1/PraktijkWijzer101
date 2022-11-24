@@ -1,6 +1,6 @@
 {
-  "homepage": "https://AngelovanOsch1.github.io/PraktijkWijzer101",
-  "name": "praktijk",
+  "homepage": "http://AngelovanOsch1.github.io/PraktijkWijzer101",
+  "name": "PraktijkWijzer101",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
