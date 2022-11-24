@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/PraktijkWijzer101/static/css/main.9f61be31.css",
-    "main.js": "/PraktijkWijzer101/static/js/main.6537737b.js",
-    "static/media/about-page-logo.png": "/PraktijkWijzer101/static/media/about-page-logo.3e9ed49eb189789f1fae.png",
-    "static/media/front-page-image.png": "/PraktijkWijzer101/static/media/front-page-image.0339cb49f4555abdea6b.png",
-    "static/media/camping-spots.png": "/PraktijkWijzer101/static/media/camping-spots.63ebda3160f94f9c4cea.png",
-    "static/media/mole-logo-image.png": "/PraktijkWijzer101/static/media/mole-logo-image.88513a18a09169be8652.png",
-    "static/media/pool-image.png": "/PraktijkWijzer101/static/media/pool-image.051b573d49df44604935.png",
-    "static/media/restaurant-image.png": "/PraktijkWijzer101/static/media/restaurant-image.11a565cf615f732b2a4a.png",
-    "static/media/kaart.png": "/PraktijkWijzer101/static/media/kaart.ce28619a5eabdd113bb0.png",
-    "static/media/playground-image.png": "/PraktijkWijzer101/static/media/playground-image.f0d0b345bb27e5de34f2.png",
-    "static/media/mountain-image.png": "/PraktijkWijzer101/static/media/mountain-image.cd6c3536017b31cbe27e.png",
-    "static/media/home-page-image.png": "/PraktijkWijzer101/static/media/home-page-image.fef755c50fdc6568d597.png",
-    "static/media/test.png": "/PraktijkWijzer101/static/media/test.d0725b188ffb04377bf7.png",
-    "index.html": "/PraktijkWijzer101/index.html",
-    "main.9f61be31.css.map": "/PraktijkWijzer101/static/css/main.9f61be31.css.map",
-    "main.6537737b.js.map": "/PraktijkWijzer101/static/js/main.6537737b.js.map"
+    "main.css": "/praktijkwijzer/static/css/main.9f61be31.css",
+    "main.js": "/praktijkwijzer/static/js/main.2e07e621.js",
+    "static/media/about-page-logo.png": "/praktijkwijzer/static/media/about-page-logo.3e9ed49eb189789f1fae.png",
+    "static/media/front-page-image.png": "/praktijkwijzer/static/media/front-page-image.0339cb49f4555abdea6b.png",
+    "static/media/camping-spots.png": "/praktijkwijzer/static/media/camping-spots.63ebda3160f94f9c4cea.png",
+    "static/media/mole-logo-image.png": "/praktijkwijzer/static/media/mole-logo-image.88513a18a09169be8652.png",
+    "static/media/pool-image.png": "/praktijkwijzer/static/media/pool-image.051b573d49df44604935.png",
+    "static/media/restaurant-image.png": "/praktijkwijzer/static/media/restaurant-image.11a565cf615f732b2a4a.png",
+    "static/media/kaart.png": "/praktijkwijzer/static/media/kaart.ce28619a5eabdd113bb0.png",
+    "static/media/playground-image.png": "/praktijkwijzer/static/media/playground-image.f0d0b345bb27e5de34f2.png",
+    "static/media/mountain-image.png": "/praktijkwijzer/static/media/mountain-image.cd6c3536017b31cbe27e.png",
+    "static/media/home-page-image.png": "/praktijkwijzer/static/media/home-page-image.fef755c50fdc6568d597.png",
+    "static/media/test.png": "/praktijkwijzer/static/media/test.d0725b188ffb04377bf7.png",
+    "index.html": "/praktijkwijzer/index.html",
+    "main.9f61be31.css.map": "/praktijkwijzer/static/css/main.9f61be31.css.map",
+    "main.2e07e621.js.map": "/praktijkwijzer/static/js/main.2e07e621.js.map"
   },
   "entrypoints": [
     "static/css/main.9f61be31.css",
-    "static/js/main.6537737b.js"
+    "static/js/main.2e07e621.js"
   ]
 }
